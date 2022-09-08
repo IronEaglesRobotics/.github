@@ -2,7 +2,7 @@
 
 The Iron Eagles Robotics team was founded in 2009 (the first year of operation for Savio). Our founder and director is a mechanical engineer at National Instruments (who is a major supporter of the FIRST program).
 
-Learn more about us at <a href="https://ironeagles.netlify.app/about.html">our website</a>.
+Learn more about us at <a href="https://ironeagles.netlify.app/index.html">our website</a>.
 
 <!--
 
